@@ -1,0 +1,22 @@
+{
+  "console": {
+    "enabled": "true",
+    "format": "%(message)s",
+    "level": "2"
+  },
+  "file": {
+    "back_up_count": 1,
+    "enabled": "true",
+    "file_path": "/var/log/email_downloader/",
+    "format": "%(process)d:%(filename)s:%(lineno)d:%(asctime)s-%(levelname)s >> %(message)s",
+    "level": "2",
+    "size": 1048576
+  },
+  "log_level": {
+    "debug_level": 1,
+    "info_level": 2,
+    "warn_level": 3,
+    "error_level": 4,
+    "fatal_level": 5
+  }
+}
