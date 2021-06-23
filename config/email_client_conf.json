@@ -1,0 +1,21 @@
+{
+  "pop3": [
+    {
+      "username": "",
+      "password": "",
+      "hostname": "",
+      "port": 995
+    }
+  ],
+  "common": {
+    "path": "~/email_data/download"
+  },
+  "imap": [
+    {
+      "username": "",
+      "password": "",
+      "hostname": "",
+      "port": 993
+    }
+  ]
+}
