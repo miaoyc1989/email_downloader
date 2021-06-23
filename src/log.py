@@ -14,7 +14,7 @@ import json
 import logging
 import logging.handlers
 
-LOGGER_FILE = "logger.json"
+LOGGER_FILE = "../config/logger.json"
 
 '''
 Log Level       Numeric value
